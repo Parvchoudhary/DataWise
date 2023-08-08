@@ -1810,7 +1810,7 @@ export const dataOverallStat = [
     totalCustomers: 5251,
     yearlySalesTotal: 65152,
     yearlyTotalSoldUnits: 12969,
-    year: 2021,
+    year: 2022,
     monthlyData:[
       {
           "month": "January",
